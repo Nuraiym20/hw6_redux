@@ -3,7 +3,7 @@ import {createSlice} from "@reduxjs/toolkit";
 const initialState = {
     busket: [],
 }
-//здесь был Нургазы
+
 const busketSlice = createSlice({
     name: 'busketSlice',
     initialState,
